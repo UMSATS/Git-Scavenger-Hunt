@@ -1,5 +1,7 @@
 # Git Scavenger Hunt
 
+Hello
+
 Welcome to the official *Git For Noobs!* scavenger hunt. This README file contains all the instructions you need to get started!
 
 ## 1. Prerequisites
