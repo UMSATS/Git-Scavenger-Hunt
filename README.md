@@ -1,7 +1,5 @@
 # Git Scavenger Hunt
 
-New line
-
 Hey there, welcome to the scavenger hunt! 🥳
 
 This README file has everything you need to get started. Grab your team members and make sure to read it **CAREFULLY**!
@@ -137,4 +135,57 @@ Anyways, good luck!
 
 ## 3. Running
 
-(To-do)
+When you're finished making changes to the code:
+
+Click on the play button on the top right corner of your screen.
+Your terminal below should display the texts below from running the code with no errors:
+
+```
+=== Autonomous System Initialization Sequence ===
+
+[System] Synchronizing the flux capacitor...
+[System] Flux capacitor synchronized.
+
+[QuantumCalibrator] Defuncing the defibrillator...
+[QuantumCalibrator] Defibrillator successfully defunced.
+
+[QuantumCalibrator] Oscillating the harmonic oscillator...
+[QuantumCalibrator] Oscillator resonance stabilized.
+
+[MechanicalSubsystem] Applying lubricant to the thingamajig...
+[MechanicalSubsystem] Thingamajig successfully oiled.
+
+[MechanicalSubsystem] Rotating the auxiliary gizmo...
+[MechanicalSubsystem] Gizmo rotation nominal.
+
+[DataPipeline] Initializing hyperbuffer...
+[DataPipeline] Validating hyperbuffer coherency...
+[DataPipeline] Hyperbuffer is coherent.
+
+[DataPipeline] Transmuting the datastream...
+[DataPipeline] Processing packet 1...
+[DataPipeline] Processing packet 2...
+[DataPipeline] Processing packet 3...
+[DataPipeline] Processing packet 4...
+[DataPipeline] Datastream transmutation complete.
+
+[System] Recalibrating neural matrix...
+[System] Neural matrix recalibrated.
+
+[System] Engaging final operational sequence...
+[System] Aligning quantum manifolds...
+[System] Reversing polarity of the neutron flow...
+[System] Stabilizing pseudo-gravitational harmonics...
+[System] Re-indexing hyperspatial lookup tables...
+[System] Verifying thingamajig lubrication levels...
+
+[System] All systems nominal.
+[System] The device is now fully operational.
+
+=== Initialization Complete ===
+```
+
+If there are certain cut-offs and error, it means you did not make the correct changes to the code.
+
+Please try again following the to-do list in the main code file.
+Good Luck and most importantly Have Fun!
