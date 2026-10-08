@@ -1,5 +1,7 @@
 # Git Scavenger Hunt
 
+This is a new line.
+
 Hey there, welcome to the scavenger hunt! 🥳
 
 This README file has everything you need to get started. Grab your team members and make sure to read it **CAREFULLY**!
