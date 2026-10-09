@@ -3,6 +3,7 @@ import random
 
 # This is a new line.
 
+
 """
 TO-DO:
 
@@ -72,7 +73,7 @@ class DataPipeline:
     def initialize_the_hyperbuffer(self):
         print("[DataPipeline] Initializing hyperbuffer...")
         time.sleep(0.3)
-        self.buffer = [6, 9] # TODO: Shouldn't this be 7? Also, should we be putting our to-do's in the code like this? -Jane
+        self.buffer = [7, 9] # TODO: Shouldn't this be 7? Also, should we be putting our to-do's in the code like this? -Jane
 
         print("[DataPipeline] Validating hyperbuffer coherency...")
         time.sleep(0.6)
