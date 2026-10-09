@@ -46,7 +46,7 @@ class MechanicalSubsystem:
         print("[MechanicalSubsystem] Applying lubricant to the thingamajig...")
         time.sleep(0.3)
 
-        self.oil = True  # TODO: uhh, Tom I think you put the wrong variable name -Jane
+        self.oiled = True  
 
         if self.oiled:
             print("[MechanicalSubsystem] Thingamajig successfully oiled.\n")
